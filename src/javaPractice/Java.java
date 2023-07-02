@@ -8,7 +8,7 @@ public class Java {
        if(hungry =="yes")
        System.out.println("order a pizza");
        else {
-    	   System.out.println("no need to order");
+    	   System.out.println("no need to order anything");
        }
 	}
 
